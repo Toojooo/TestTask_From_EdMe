@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Main {
 
     public static void main(String[] args) {
+
         Scanner inputString = new Scanner(System.in);
 
         System.out.println("Введите пример пожалуйста (соблюдите павило ввода) ( 2 + 2 ):");
